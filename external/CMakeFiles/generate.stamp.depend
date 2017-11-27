@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/ahmed/Desktop/Graphics Lab 4-20171125T142711Z-001/Graphics Lab 4/Lab4/external/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckFunctionExists.cmake

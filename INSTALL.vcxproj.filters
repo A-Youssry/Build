@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\Build\CMakeFiles\e0bd3dcccd7699dcc63dfbfe31e044e3\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2AFF1151-E075-3C26-94A6-51036739A812}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

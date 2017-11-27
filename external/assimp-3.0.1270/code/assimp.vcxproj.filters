@@ -1,0 +1,1209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\AssimpPCH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TerragenLoader.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ColladaLoader.cpp">
+      <Filter>Collada</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ColladaParser.cpp">
+      <Filter>Collada</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ColladaExporter.cpp">
+      <Filter>Collada</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IRRLoader.cpp">
+      <Filter>Irr</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IRRMeshLoader.cpp">
+      <Filter>Irr</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IRRShared.cpp">
+      <Filter>Irr</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\M3Importer.cpp">
+      <Filter>M3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OFFLoader.cpp">
+      <Filter>OFFFormat</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjFileImporter.cpp">
+      <Filter>Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjFileMtlImporter.cpp">
+      <Filter>Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjFileParser.cpp">
+      <Filter>Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjExporter.cpp">
+      <Filter>Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OgreImporter.cpp">
+      <Filter>Ogre</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OgreMaterial.cpp">
+      <Filter>Ogre</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OgreMesh.cpp">
+      <Filter>Ogre</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OgreSkeleton.cpp">
+      <Filter>Ogre</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PlyLoader.cpp">
+      <Filter>Ply</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PlyParser.cpp">
+      <Filter>Ply</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PlyExporter.cpp">
+      <Filter>Ply</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3BSPZipArchive.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\RawLoader.cpp">
+      <Filter>Raw</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\STLExporter.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\UnrealLoader.cpp">
+      <Filter>Unreal</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\XFileImporter.cpp">
+      <Filter>XFile</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\XFileParser.cpp">
+      <Filter>XFile</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderLoader.cpp">
+      <Filter>BLENDER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderDNA.cpp">
+      <Filter>BLENDER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderScene.cpp">
+      <Filter>BLENDER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderModifier.cpp">
+      <Filter>BLENDER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCReaderGen.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\STEPFileReader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\irrXML\irrXML.cpp">
+      <Filter>IrrXML</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\ConvertUTF\ConvertUTF.c">
+      <Filter>ConvertUTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\unzip\ioapi.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\unzip\unzip.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\clipper\clipper.cpp">
+      <Filter>Clipper</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\AssimpPCH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\fast_atof.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\qnan.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BaseImporter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ByteSwap.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DefaultIOStream.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DefaultIOSystem.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\CInterfaceIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Hash.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ParsingUtils.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\StdOStreamLogStream.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\StreamReader.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\StringComparison.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SGSpatialSort.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\GenericProperty.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SpatialSort.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SceneCombiner.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SkeletonMeshBuilder.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SmoothingGroups.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\StandardShapes.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\RemoveComments.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Subdivision.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Vertex.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LineSplitter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TinyFormatter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Profiler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LogAux.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\IOStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TerragenLoader.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PolyTools.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ColladaHelper.h">
+      <Filter>Collada</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ColladaLoader.h">
+      <Filter>Collada</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ColladaParser.h">
+      <Filter>Collada</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ColladaExporter.h">
+      <Filter>Collada</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IRRLoader.h">
+      <Filter>Irr</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IRRMeshLoader.h">
+      <Filter>Irr</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IRRShared.h">
+      <Filter>Irr</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\M3Importer.h">
+      <Filter>M3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OFFLoader.h">
+      <Filter>OFFFormat</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjFileData.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjFileImporter.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjFileMtlImporter.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjFileParser.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjTools.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\ObjExporter.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OgreImporter.hpp">
+      <Filter>Ogre</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\OgreXmlHelper.hpp">
+      <Filter>Ogre</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PlyLoader.h">
+      <Filter>Ply</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PlyParser.h">
+      <Filter>Ply</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\PlyExporter.h">
+      <Filter>Ply</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\Q3BSPZipArchive.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\RawLoader.h">
+      <Filter>Raw</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\STLExporter.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\UnrealLoader.h">
+      <Filter>Unreal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\XFileHelper.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\XFileImporter.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\XFileParser.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MD4FileData.h">
+      <Filter>Extra</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderLoader.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderDNA.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderDNA.inl">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderScene.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderSceneGen.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderIntermediate.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BlenderModifier.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCReaderGen.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\STEPFile.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\STEPFileReader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\irrXML\CXMLReaderImpl.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\irrXML\heapsort.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\irrXML\irrArray.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\irrXML\irrString.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\irrXML\irrTypes.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\irrXML\irrXML.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\ConvertUTF\ConvertUTF.h">
+      <Filter>ConvertUTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\unzip\crypt.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\unzip\ioapi.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\unzip\unzip.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\contrib\clipper\clipper.hpp">
+      <Filter>Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\math\common_factor_rt.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\foreach.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\format.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\scoped_array.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\scoped_ptr.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\shared_array.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\shared_ptr.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\make_shared.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\static_assert.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\BoostWorkaround\boost\tuple\tuple.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ahmed\Desktop\Graphics Lab 4-20171125T142711Z-001\Graphics Lab 4\Lab4\external\assimp-3.0.1270\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0FD01EAE-15E5-35D5-929F-B133DED6EFF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D1D0006E-AB48-3990-A05A-4219F72FA562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{DB598223-3789-35DA-A230-3F99200F77FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Boost">
+      <UniqueIdentifier>{E099E900-AA74-3FDE-B9DC-C5ABAAF4770A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{D8040A20-566F-39DE-A366-906033484E38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{F7CED091-5F28-3C91-8A36-8D3CD8BF6C2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{FE9435B1-1F74-3E7D-9042-2094FD9AC02B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{92299F13-C11E-3AFB-9A96-4997CED53664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{E16B8798-AE35-3A87-BAFE-7FF2535C65C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{70CFE747-A071-3547-BC7A-6D486C0F3B6E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{9A7D9522-1191-3851-B4FA-84505090B5C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collada">
+      <UniqueIdentifier>{4BA42DE4-F4AB-3CB9-A5CD-8F09F9308F3E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{91FB0976-7C5B-3114-BBA1-6E237EAE4C66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{332AEC9B-D8A1-3450-9C71-4D28F30AF3AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{DCABEC98-B0F6-3692-A5E2-2E0F8F93405E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Irr">
+      <UniqueIdentifier>{FDAF0C59-4B58-3655-9C22-6E497A3764D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{89A8F5CC-4D18-383B-B653-FCC3495B6EFD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{90292F9F-9473-3AC2-8A6D-6C7A00A81233}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="M3">
+      <UniqueIdentifier>{90FEF22F-0BC0-3BDE-B897-685EC5E716B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{39B10EC8-B900-3B56-AF71-B86114C95C0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{498A69D9-65ED-3B3B-9641-1F2FC14C4B04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{48A50ADB-04C5-371F-9643-8DD6CC808E27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{4B7BACF2-B177-33AF-8B8C-B6C3BCB25606}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{93C106C5-88C6-3CD7-89D9-8A9CF578E7EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{C0C9BAA3-8F40-3E9C-8C91-41C0ABB577E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{AFCA94B0-E2AA-3D4B-83D2-C544A7D66904}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{1B9E8AC5-84D6-309E-8F85-97E90F24C8F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFFFormat">
+      <UniqueIdentifier>{1B7D11E3-3DA5-302C-A3C1-0DC6CDEED7B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obj">
+      <UniqueIdentifier>{3DD86007-B38E-3181-8E07-DBC6E8A28C3C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ogre">
+      <UniqueIdentifier>{22BB6AF4-0E18-3F8E-B937-3DE761CC17B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ply">
+      <UniqueIdentifier>{BC21FC77-DDAB-33A2-A385-84DBD0679CED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{E81329DF-92CB-3B05-B040-ADEE2D95B754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{EDC89DBF-20FF-3873-8CE3-A53DF74EC1E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLENDER">
+      <UniqueIdentifier>{AAF7B512-511F-309B-A1B0-543D0F6BE7A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{D4408E68-4D2E-3748-A203-DEF0ED66AE14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{BA4EE785-8A8F-3153-8628-A6FA6D05E899}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{DC08B640-C19F-3E80-B452-4B6D9F21361C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{C06DF185-3A0A-34E4-8532-FDEE0E8172CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{02808329-F766-3EFA-91D5-2AF1293AE725}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Raw">
+      <UniqueIdentifier>{458ABB13-4FE3-371E-BEE9-B7753C0A4DE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{20231568-2EA5-3374-A7C8-3D6D287ADE7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{8DE698AF-F831-3F4C-A439-E2682805AC18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unreal">
+      <UniqueIdentifier>{743B62A4-77D5-37E2-9930-A7A66187CE06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XFile">
+      <UniqueIdentifier>{F9907485-77DC-3961-AC3C-9645E6FE8E82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{0430BCCC-C3BD-3253-AA38-E550753F5B46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Extra">
+      <UniqueIdentifier>{9CB6755B-4EF6-3482-BEAC-7121904004AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{89CE0468-53E6-35A9-A1FF-2F5C5139E371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ConvertUTF">
+      <UniqueIdentifier>{6938E54B-AD23-3A5A-9906-D9DB3B303831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipper">
+      <UniqueIdentifier>{17BF3000-1B3C-3CA6-A59B-11C6C603A1B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Poly2Tri">
+      <UniqueIdentifier>{6E5EB00C-408D-3736-A97C-DBD42A7F0C8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="unzip">
+      <UniqueIdentifier>{D65AA400-C04F-3120-9CB0-672BA4717AF6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
